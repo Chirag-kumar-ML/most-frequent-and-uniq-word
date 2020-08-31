@@ -1,0 +1,10 @@
+streamlit
+pandas
+re
+collections
+BeaautifulSoup
+nltk
+sklearn
+bs4
+numpy
+
